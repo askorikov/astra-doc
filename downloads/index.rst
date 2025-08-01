@@ -8,6 +8,7 @@ Below is the latest released version. For older versions, see the links in the s
 .. toctree::
    :hidden:
 
+   2.4.0/index
    2.3.1/index
    2.3.0/index
    2.2.0/index
